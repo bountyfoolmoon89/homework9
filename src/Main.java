@@ -8,7 +8,6 @@ public class Main {
         task2();
         System.out.println(" Task 3");
         task3();
-
     }
     public static void task1(){
         int[] firstArr = new int[] {1, 2, 3};
